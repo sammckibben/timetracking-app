@@ -1,0 +1,2 @@
+insert into project(name,description) values ('task_tracker','App for tracking time spent on tasks');
+insert into task(name,comments) values ('TT First tries of interacting from Node server to Postgres database','very difficult');

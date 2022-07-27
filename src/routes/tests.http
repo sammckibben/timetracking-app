@@ -1,0 +1,8 @@
+####
+GET http://localhost:3000/api/projects
+
+####
+GET http://localhost:3000/api/tasks
+
+####
+GET http://localhost:3000/api/task_entries
